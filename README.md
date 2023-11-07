@@ -6,9 +6,9 @@ Using magneto-optical physical effects, we can measure ferromagnetic hysteresis 
 ![Exemplary magnetic hysteresis loop with necessary paramenters](https://github.com/szpytmus/mokeGadgets/assets/62251445/34a4a7c3-ebd8-4633-8023-073bc63f76be)
 
 Formulas for:
-Remanence = (REMmax - REMmin)/(SATmax - SATmin)
-Coercivity = (HC2 - HC2)/2
-Exchange Bias = (HC2 + HC2)/2
+- Remanence = (REMmax - REMmin)/(SATmax - SATmin)
+- Coercivity = (HC2 - HC2)/2
+- Exchange Bias = (HC2 + HC2)/2
 
 The App is provided with a Tkinter GUI, with a calculator for:
 - Remanence
