@@ -22,8 +22,8 @@ Plans for future development:
 - Interactive parameter data selection from visualized loop
 
 Technologies used:
--Tkinter
--Object-Oriented Programming Concepts
+- Tkinter
+- Object-Oriented Programming Concepts
 
 ## Instruction to create executable mokeGadgetsTool from a script using PyInstaller
 
